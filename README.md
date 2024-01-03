@@ -6,7 +6,7 @@ This project contains the development of a simple model that detects for threats
 
 Sharafaldin, Iman, Arash Habibi Lashkari, and Ali A. Ghorbani. "Toward generating a new intrusion detection dataset and intrusion traffic characterization." ICISSP 2018 (2018): 108-116.
 
-
++-----+
 Project Structure:
 
 Data Preprocessing: This section covers the data loading, cleaning, normalization, and encoding processes.
@@ -18,7 +18,7 @@ Model Training: Description of the training process, including loss functions, o
 Model Evaluation: Evaluation of the model performance using metrics such as accuracy, confusion matrix, etc.
 
 API Deployment: Steps for deploying the model using Flask and instructions for accessing it via an API endpoint.
-
++-----+
 
 Installation requirements to run:
 Python 3.x
