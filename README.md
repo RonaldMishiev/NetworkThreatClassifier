@@ -7,6 +7,7 @@ This project contains the development of a simple model that detects for threats
 Sharafaldin, Iman, Arash Habibi Lashkari, and Ali A. Ghorbani. "Toward generating a new intrusion detection dataset and intrusion traffic characterization." ICISSP 2018 (2018): 108-116.
 
 +-----+
+
 Project Structure:
 
 Data Preprocessing: This section covers the data loading, cleaning, normalization, and encoding processes.
