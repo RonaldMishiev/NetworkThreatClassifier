@@ -18,6 +18,7 @@ Model Training: Description of the training process, including loss functions, o
 Model Evaluation: Evaluation of the model performance using metrics such as accuracy, confusion matrix, etc.
 
 API Deployment: Steps for deploying the model using Flask and instructions for accessing it via an API endpoint.
+
 +-----+
 
 Installation requirements to run:
