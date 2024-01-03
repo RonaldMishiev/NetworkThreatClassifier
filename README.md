@@ -8,11 +8,17 @@ Sharafaldin, Iman, Arash Habibi Lashkari, and Ali A. Ghorbani. "Toward generatin
 
 
 Project Structure:
+
 Data Preprocessing: This section covers the data loading, cleaning, normalization, and encoding processes.
+
 Model Building: Details about the neural network architecture, including layers, neurons, and activation functions.
+
 Model Training: Description of the training process, including loss functions, optimizers, and training/validation splits.
+
 Model Evaluation: Evaluation of the model performance using metrics such as accuracy, confusion matrix, etc.
+
 API Deployment: Steps for deploying the model using Flask and instructions for accessing it via an API endpoint.
+
 
 Installation requirements to run:
 Python 3.x
