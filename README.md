@@ -8,6 +8,7 @@ Sharafaldin, Iman, Arash Habibi Lashkari, and Ali A. Ghorbani. "Toward generatin
 
 +-----+
 
+
 Project Structure:
 
 Data Preprocessing: This section covers the data loading, cleaning, normalization, and encoding processes.
